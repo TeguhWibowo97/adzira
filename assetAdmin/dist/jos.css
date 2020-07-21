@@ -1,0 +1,11 @@
+.froge {
+    background-color: rgba(36, 109, 179, 0.61);
+}
+
+.froge tr{
+    background-color: none;
+}
+
+.truge{
+    margin: 8px;
+}
